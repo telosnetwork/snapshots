@@ -1,5 +1,5 @@
 ethereum_address,account_name,PubKey,Balance
-,telos,EOS6uXoeq1w5dKCatHXiyc5GG2tSq93wXY8obNoeCjNrKBxVNC9XJ,6000000.0000
-,telos.tfrp,,6000000.0000
-,telos.tcrp,,1000000.0000
-,telos.exrsrv,,140279973.0000
+,tf,EOS6uXoeq1w5dKCatHXiyc5GG2tSq93wXY8obNoeCjNrKBxVNC9XJ,6000000.0000
+,tf.frp,,6000000.0000
+,tf.crp,,1000000.0000
+,tf.exrsrv,,140279973.0000
