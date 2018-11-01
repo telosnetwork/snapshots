@@ -12,7 +12,7 @@ octagonlabs3
 eosbarcelona
 tlsvancouver
 telosmadrid1
-telosnewyork
+telosnewyork              EOS7uh28mPLSuLsaA9eyNoiLNwky4KDU7sxwfCg9NZcsPhdKxBB2f       EOS58fxRSw8qHknuVf6jEMuJf3drCXJxPAuuJ5s9VZMseUYKpa6gx      
 telosmiamibp
 eosawakeiobp
 telosvoyager
