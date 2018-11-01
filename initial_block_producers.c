@@ -6,7 +6,7 @@ kainosblkpro
 caleosblocks
 bigironbptex
 tlsvenezuela
-telosdacnode
+telosdacnode              EOS7umWfL6PF8tSMSj8qSCLjxEs9BAUvz4FrXRBpFL4kq6pW3vuN9       EOS8efshY1NNAerH8oMA7sheMrbaDFAi84bgz6F92k9cU2nBCAH81
 swedencornet
 octagonlabs3
 eosbarcelona
