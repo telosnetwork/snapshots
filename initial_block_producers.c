@@ -13,7 +13,7 @@ eosbarcelona
 tlsvancouver
 telosmadrid1
 telosnewyork
-telosmiamibp
+telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
 eosawakeiobp
 telosvoyager
 amplifiedtls
