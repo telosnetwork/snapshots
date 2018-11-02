@@ -10,7 +10,7 @@ telosdacnode
 swedencornet
 octagonlabs3
 eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
-tlsvancouver
+tlsvancouver              EOS6WxRm9GqQvLveHX9NKmsuxhxtQCA7kZLYndXHhaPbkCGqCq7xU       EOS8e3x3vB47dpEsHMXhHDZKX6CRgUbhU4qeZi7GBC7WiKgiKPFwf
 telosmadrid1
 telosnewyork
 telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
