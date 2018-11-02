@@ -15,7 +15,7 @@ telosmadrid1
 telosnewyork
 telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
 eosawakeiobp
-telosvoyager
+telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA       EOS7jAGouYbaQvXjciPbBAfMKhWedTRE1vhX1kXWxjzb5y7AFtqaC
 amplifiedtls
 eosmetaliobp
 telosfinexbp
