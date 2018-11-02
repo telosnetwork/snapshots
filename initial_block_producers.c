@@ -9,7 +9,7 @@ tlsvenezuela
 telosdacnode
 swedencornet
 octagonlabs3
-eosbarcelona
+eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
 tlsvancouver
 telosmadrid1
 telosnewyork
