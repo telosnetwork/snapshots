@@ -11,8 +11,8 @@ swedencornet              EOS5F71pqtgGV3dVVLFmyDKnXLkPGZHuMHEA8XT1P8YrrZfYaSwKQ 
 octagonlabs3
 eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
 tlsvancouver
+telosnewyork              EOS7uh28mPLSuLsaA9eyNoiLNwky4KDU7sxwfCg9NZcsPhdKxBB2f       EOS58fxRSw8qHknuVf6jEMuJf3drCXJxPAuuJ5s9VZMseUYKpa6gx      
 telosmadrid1              EOS8R844B7dJ9pQKA9Pnn6Qdc3CvPDRooahNbuEnJtakCVsQptQav       EOS7r79jhicRbvYzfZpN2kLKFpkj6PWB1caVnbSqqSUwHvjywFWAb
-telosnewyork
 telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
 eosawakeiobp
 telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA       EOS7jAGouYbaQvXjciPbBAfMKhWedTRE1vhX1kXWxjzb5y7AFtqaC
