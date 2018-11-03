@@ -38,7 +38,7 @@ telosgreenbp
 cryptosuviio
 eosoup2pnode
 happyholders
-21zephyr1111
+21zephyr1111              EOS7LXcaj6U5a59U4YF7qGp3TSUZ2Q3DJ3ALQGgan57MhXELYbqTs       EOS7nxQXDPysKopUjVXUmTVM4mJ6czf3kcUeEWvgttcXw6NtYvwED
 tlosmatrix24
 droneeenergy
 telosamerica
