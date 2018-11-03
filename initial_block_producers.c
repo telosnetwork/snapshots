@@ -42,7 +42,7 @@ happyholders
 tlosmatrix24
 droneeenergy
 telosamerica
-telosglobal1
+telosglobal1              EOS8JQyD8DzRNVfsQ4LXD76vdrT1tmFTF2tgkuZdEtebrMSYJvPci       EOS7EmiVAq9zToDdfyH5fnGMbbDQrAs5Rz8pmRdn6R6tXbumJ8ViE     
 telossuperbp
 votedutcheos
 csxcommunity            EOS6dQynczPZfyhnaCFgTqNQ6ZA9BRWvDLeqCiL2YH1CWWhAo6fR6         EOS7SNjFNR2ajUt5edQngEupvbv5TJjmqxq3qk9eZQAkXP22JEtgx
