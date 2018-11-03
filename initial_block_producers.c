@@ -7,7 +7,7 @@ caleosblocks
 bigironbptex
 tlsvenezuela
 telosdacnode
-swedencornet
+swedencornet              EOS5F71pqtgGV3dVVLFmyDKnXLkPGZHuMHEA8XT1P8YrrZfYaSwKQ       EOS887ZcvytonnEPsiJiwDQJ93tw5UmUTTsJFZrSZfbwSpFmYFPmN
 octagonlabs3
 eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
 tlsvancouver
