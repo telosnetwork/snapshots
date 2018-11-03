@@ -11,7 +11,7 @@ swedencornet
 octagonlabs3
 eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
 tlsvancouver
-telosmadrid1
+telosmadrid1              EOS8R844B7dJ9pQKA9Pnn6Qdc3CvPDRooahNbuEnJtakCVsQptQav       EOS7r79jhicRbvYzfZpN2kLKFpkj6PWB1caVnbSqqSUwHvjywFWAb
 telosnewyork
 telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
 eosawakeiobp
