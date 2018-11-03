@@ -21,7 +21,7 @@ eosmetaliobp              EOS7REVGqjfQbSMswHN6p9YQb1KfDk9bqAsv4Jd6vQaMfzD9Lhkhp 
 telosfinexbp
 telasiachina
 bpeosindexio
-telosimpera1
+telosimpera1              EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC       EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC
 beyondbtctls
 eosiodetroit
 southafricas
