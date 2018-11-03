@@ -17,7 +17,7 @@ telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6 
 eosawakeiobp
 telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA       EOS7jAGouYbaQvXjciPbBAfMKhWedTRE1vhX1kXWxjzb5y7AFtqaC
 amplifiedtls
-eosmetaliobp
+eosmetaliobp              EOS7REVGqjfQbSMswHN6p9YQb1KfDk9bqAsv4Jd6vQaMfzD9Lhkhp       EOS5GwL5FeiFgdjiTquPDTGSkUALMawHpSBYj6qGLeuuuEdCU6AH8
 telosfinexbp
 telasiachina
 bpeosindexio
