@@ -3,7 +3,7 @@ blindblocart              EOS7SuVP2Us3fRxKMYmrR6NzgRa4wm5QWEE3F8V9d6LpzPjGEGFKh 
 infinitybloc              EOS8QU9ZdAeytzFozo3He1skbrZoZ6ig2EkLV7zR7ohMhfD5nJJSP       EOS6DKqyXhhQdejJHNNAuac7KE9cmoCoWoYY7i5AKwXFtALK6Rx9p
 goodblocktls              EOS7GbbU4Kg5Yyi1aRFqHiCHRKAJ7ABSf1oHHzfcHuMGCwgJA1qWC       EOS6gBkyJUo38Rp2vTPenTFHJeWveqJ5Stusp3FGxeK5evQ1bsMBE
 kainosblkpro
-caleosblocks
+caleosblocks              EOS6Bj319bz279z7svm219K3sGMSyupYTxSHS4twhQuys5LUez798       EOS7uMc3gjvCmCB1aDU1obmct8X9zGHvZVykPCM7PuaY3zeYZtytA
 bigironbptex
 tlsvenezuela
 telosdacnode
