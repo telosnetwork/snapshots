@@ -6,9 +6,9 @@ kainosblkpro              EOS7C3dDyHXbioLEyC27aB6f4TPdNfxFvLQYn3qQWPSSDuk9hX5j2 
 caleosblocks              EOS6Bj319bz279z7svm219K3sGMSyupYTxSHS4twhQuys5LUez798       EOS7uMc3gjvCmCB1aDU1obmct8X9zGHvZVykPCM7PuaY3zeYZtytA
 bigironbptex
 tlsvenezuela
+octagontelos              EOS7tT6VTM66ZjZQGT48bWgLU1k5WEUtLR2a9saQCy7CHxbd4Xw9g       EOS7aaoktsYgT7bSArfhWNtj1v3JL143R6Noz5xacS83b1wsftfcP
 telosdacnode              EOS7umWfL6PF8tSMSj8qSCLjxEs9BAUvz4FrXRBpFL4kq6pW3vuN9       EOS8efshY1NNAerH8oMA7sheMrbaDFAi84bgz6F92k9cU2nBCAH81
 swedencornet              EOS5F71pqtgGV3dVVLFmyDKnXLkPGZHuMHEA8XT1P8YrrZfYaSwKQ       EOS887ZcvytonnEPsiJiwDQJ93tw5UmUTTsJFZrSZfbwSpFmYFPmN
-octagonlabs3
 eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
 tlsvancouver              EOS6WxRm9GqQvLveHX9NKmsuxhxtQCA7kZLYndXHhaPbkCGqCq7xU       EOS8e3x3vB47dpEsHMXhHDZKX6CRgUbhU4qeZi7GBC7WiKgiKPFwf
 telosnewyork              EOS7uh28mPLSuLsaA9eyNoiLNwky4KDU7sxwfCg9NZcsPhdKxBB2f       EOS58fxRSw8qHknuVf6jEMuJf3drCXJxPAuuJ5s9VZMseUYKpa6gx      
