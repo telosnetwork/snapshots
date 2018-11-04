@@ -32,7 +32,7 @@ telosinspace
 telgoingos13
 telosuknodes
 telosunlimit
-teloscantons
+teloscantons              EOS6m5RV7A9uRDUBqkygCyug99BFB6tJvAX7XA8zdsKxJ72iCzeKF       EOS6H1UhZoEF8u91eQUSxkBD69ym5w1DmFsvQB6c6X6XfU3Ri6tBV
 telosintasia
 telosgreenbp
 cryptosuviio
