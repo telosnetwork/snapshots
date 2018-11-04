@@ -22,7 +22,7 @@ telosfinexbp
 telasiachina
 bpeosindexio
 telosimpera1              EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC       EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC
-beyondbtctls
+beyondbtctls              EOS5Tgc4WAFy1Kd8NzV7okT64cWK3iFFpgLxuAD27Xg1y84Pqqe3b       EOS5mBEuZ9d4KnuQhUnSgsXPYqcNgxG47U9mG5WVmQ9vKxBKdxEpS
 eosiodetroit
 southafricas
 eossandiego1
