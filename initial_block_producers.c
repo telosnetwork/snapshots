@@ -19,9 +19,9 @@ telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA 
 amplifiedtls
 eosmetaliobp              EOS7REVGqjfQbSMswHN6p9YQb1KfDk9bqAsv4Jd6vQaMfzD9Lhkhp       EOS5GwL5FeiFgdjiTquPDTGSkUALMawHpSBYj6qGLeuuuEdCU6AH8
 telosfinexbp
-telasiachina
+telasiachina              EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX       EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX
 bpeosindexio
-telosimpera1              EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC       EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC
+tlosimperabp              EOS8N8Zio2nHf5gsy9dRmyv3goV6G2c9Kb3vQY8tuCbTohjr6sUVZ       EOS8N8Zio2nHf5gsy9dRmyv3goV6G2c9Kb3vQY8tuCbTohjr6sUVZ
 beyondbtctls              EOS5Tgc4WAFy1Kd8NzV7okT64cWK3iFFpgLxuAD27Xg1y84Pqqe3b       EOS5mBEuZ9d4KnuQhUnSgsXPYqcNgxG47U9mG5WVmQ9vKxBKdxEpS
 eosiodetroit
 southafricas
@@ -29,13 +29,13 @@ eossandiego1
 telosarabia1
 telosflorida
 telosinspace
-telgoingos13
+telgoingos13              EOS8BqQfS1zDTLtZAdoGFb6dmE7vviUzxxNhGU4xghuWgjVr6ht23       EOS8BqQfS1zDTLtZAdoGFb6dmE7vviUzxxNhGU4xghuWgjVr6ht23
 telosuknodes
 telosunlimit
-teloscantons
+teloscantons              EOS6m5RV7A9uRDUBqkygCyug99BFB6tJvAX7XA8zdsKxJ72iCzeKF       EOS6H1UhZoEF8u91eQUSxkBD69ym5w1DmFsvQB6c6X6XfU3Ri6tBV
 telosintasia
-telosgreenbp
 cryptosuviio              EOS6y9nxKKd2exs5CkVr7Q7SGGWaFzbZWorV2abyZf7iTFgVDWRTB       EOS8NubdMd8MQ9Dp2aGhRrWoJuRyULuKksDSeRMcmTtxsCji3AqRX
+telosgreenbp              EOS5juwqk6JZN7EfZeNFohr9Yhjx5w4YrRVAJ3dq2kdftkyAQvGoW       EOS7ZpSQ5i8XNiVbAg9gjWjD3jNKMMtDhQRWQzdQyMg9owQLCTSLA       
 eosoup2pnode
 happyholders
 21zephyr1111              EOS7LXcaj6U5a59U4YF7qGp3TSUZ2Q3DJ3ALQGgan57MhXELYbqTs       EOS7nxQXDPysKopUjVXUmTVM4mJ6czf3kcUeEWvgttcXw6NtYvwED
