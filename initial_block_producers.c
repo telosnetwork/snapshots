@@ -34,8 +34,8 @@ telosuknodes
 telosunlimit
 teloscantons              EOS6m5RV7A9uRDUBqkygCyug99BFB6tJvAX7XA8zdsKxJ72iCzeKF       EOS6H1UhZoEF8u91eQUSxkBD69ym5w1DmFsvQB6c6X6XfU3Ri6tBV
 telosintasia
+cryptosuviio              EOS6y9nxKKd2exs5CkVr7Q7SGGWaFzbZWorV2abyZf7iTFgVDWRTB       EOS8NubdMd8MQ9Dp2aGhRrWoJuRyULuKksDSeRMcmTtxsCji3AqRX
 telosgreenbp              EOS5juwqk6JZN7EfZeNFohr9Yhjx5w4YrRVAJ3dq2kdftkyAQvGoW       EOS7ZpSQ5i8XNiVbAg9gjWjD3jNKMMtDhQRWQzdQyMg9owQLCTSLA       
-cryptosuviio
 eosoup2pnode
 happyholders
 21zephyr1111              EOS7LXcaj6U5a59U4YF7qGp3TSUZ2Q3DJ3ALQGgan57MhXELYbqTs       EOS7nxQXDPysKopUjVXUmTVM4mJ6czf3kcUeEWvgttcXw6NtYvwED
