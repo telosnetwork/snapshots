@@ -34,7 +34,7 @@ telosuknodes
 telosunlimit
 teloscantons
 telosintasia
-telosgreenbp
+telosgreenbp              EOS5juwqk6JZN7EfZeNFohr9Yhjx5w4YrRVAJ3dq2kdftkyAQvGoW       EOS7ZpSQ5i8XNiVbAg9gjWjD3jNKMMtDhQRWQzdQyMg9owQLCTSLA       
 cryptosuviio
 eosoup2pnode
 happyholders
