@@ -19,7 +19,7 @@ telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA 
 amplifiedtls
 eosmetaliobp              EOS7REVGqjfQbSMswHN6p9YQb1KfDk9bqAsv4Jd6vQaMfzD9Lhkhp       EOS5GwL5FeiFgdjiTquPDTGSkUALMawHpSBYj6qGLeuuuEdCU6AH8
 telosfinexbp
-telasiachina
+telasiachina              EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX       EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX
 bpeosindexio
 telosimpera1              EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC       EOS73T3LdNaAjBrx2uDKVTVuVHhFLZ3rL7CALUNMCbnz63Yh757zC
 beyondbtctls              EOS5Tgc4WAFy1Kd8NzV7okT64cWK3iFFpgLxuAD27Xg1y84Pqqe3b       EOS5mBEuZ9d4KnuQhUnSgsXPYqcNgxG47U9mG5WVmQ9vKxBKdxEpS
@@ -29,7 +29,7 @@ eossandiego1
 telosarabia1
 telosflorida
 telosinspace
-telgoingos13
+telgoingos13              EOS8BqQfS1zDTLtZAdoGFb6dmE7vviUzxxNhGU4xghuWgjVr6ht23       EOS8BqQfS1zDTLtZAdoGFb6dmE7vviUzxxNhGU4xghuWgjVr6ht23
 telosuknodes
 telosunlimit
 teloscantons
