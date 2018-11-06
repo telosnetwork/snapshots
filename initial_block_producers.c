@@ -16,7 +16,7 @@ telosmadrid1              EOS8R844B7dJ9pQKA9Pnn6Qdc3CvPDRooahNbuEnJtakCVsQptQav 
 telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
 eosawakeiobp
 telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA       EOS7jAGouYbaQvXjciPbBAfMKhWedTRE1vhX1kXWxjzb5y7AFtqaC
-amplifiedtls
+amplifiedtls              EOS8cmtL2wvATuQ8YEsBkFcR5Dy5QsLEqqC4L9pF1xv7WUR8NnjZ5       EOS64q4jDv6WAWRZR3goK31B6FcgHP9LykhCKxmc4LCF6H2JaAiyr
 eosmetaliobp              EOS7REVGqjfQbSMswHN6p9YQb1KfDk9bqAsv4Jd6vQaMfzD9Lhkhp       EOS5GwL5FeiFgdjiTquPDTGSkUALMawHpSBYj6qGLeuuuEdCU6AH8
 telosfinexbp
 telasiachina              EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX       EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX
