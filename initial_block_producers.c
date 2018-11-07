@@ -14,7 +14,7 @@ tlsvancouver              EOS6WxRm9GqQvLveHX9NKmsuxhxtQCA7kZLYndXHhaPbkCGqCq7xU 
 telosnewyork              EOS7uh28mPLSuLsaA9eyNoiLNwky4KDU7sxwfCg9NZcsPhdKxBB2f       EOS58fxRSw8qHknuVf6jEMuJf3drCXJxPAuuJ5s9VZMseUYKpa6gx      
 telosmadrid1              EOS8R844B7dJ9pQKA9Pnn6Qdc3CvPDRooahNbuEnJtakCVsQptQav       EOS7r79jhicRbvYzfZpN2kLKFpkj6PWB1caVnbSqqSUwHvjywFWAb
 telosmiamibp              EOS5XLH6TiPWtoAcBrT4B7Mx8WFKvTV4zWSz4aFP7r2vxvRPdCgR6       EOS6xvJrxYiL9G6EPXJ3MvVeMus78XKGrM1ZzkB3DSdwoZR9WtqNa
-eosawakeiobp
+eosawakeiobp              EOS53VxbntqQSMVgo3XSbfZMCfCknNyc1zv8DCdbfVTrPHuVDgn4v       EOS53VxbntqQSMVgo3XSbfZMCfCknNyc1zv8DCdbfVTrPHuVDgn4v
 telosvoyager              EOS5NQpBL8xMHpNnXPoV7t4n2CW6BXkxkbfzr1unnzhC48rBKkQFA       EOS7jAGouYbaQvXjciPbBAfMKhWedTRE1vhX1kXWxjzb5y7AFtqaC
 amplifiedtls              EOS8cmtL2wvATuQ8YEsBkFcR5Dy5QsLEqqC4L9pF1xv7WUR8NnjZ5       EOS64q4jDv6WAWRZR3goK31B6FcgHP9LykhCKxmc4LCF6H2JaAiyr
 eosmetaliobp              EOS7REVGqjfQbSMswHN6p9YQb1KfDk9bqAsv4Jd6vQaMfzD9Lhkhp       EOS5GwL5FeiFgdjiTquPDTGSkUALMawHpSBYj6qGLeuuuEdCU6AH8
@@ -43,6 +43,6 @@ tlosmatrix24
 droneeenergy
 telosamerica
 telosglobal1              EOS8JQyD8DzRNVfsQ4LXD76vdrT1tmFTF2tgkuZdEtebrMSYJvPci       EOS7EmiVAq9zToDdfyH5fnGMbbDQrAs5Rz8pmRdn6R6tXbumJ8ViE     
-telossuperbp
+telossuperbp              EOS6sXa9QCdo67qfFNoAVPyGdTkRMkJy1buCGFF8gGXqGV1nqYWPn       EOS6sXa9QCdo67qfFNoAVPyGdTkRMkJy1buCGFF8gGXqGV1nqYWPn
 votedutcheos
 csxcommunity            EOS6dQynczPZfyhnaCFgTqNQ6ZA9BRWvDLeqCiL2YH1CWWhAo6fR6         EOS7SNjFNR2ajUt5edQngEupvbv5TJjmqxq3qk9eZQAkXP22JEtgx
