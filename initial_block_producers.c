@@ -6,7 +6,7 @@ kainosblkpro              EOS7C3dDyHXbioLEyC27aB6f4TPdNfxFvLQYn3qQWPSSDuk9hX5j2 
 caleosblocks              EOS6Bj319bz279z7svm219K3sGMSyupYTxSHS4twhQuys5LUez798       EOS7uMc3gjvCmCB1aDU1obmct8X9zGHvZVykPCM7PuaY3zeYZtytA
 bigironbptex
 tlsvenezuela              EOS5aUWhCtg7y8MqNx4FkTsFcubDEoy5DZi6u1afyeZHCVene2i95       EOS8VeneRj2rAPtLdJuU9VM4MWeZYbRiqavBnrNQdeP2z7iC4tJrk
-octagontelos              EOS7tT6VTM66ZjZQGT48bWgLU1k5WEUtLR2a9saQCy7CHxbd4Xw9g       EOS7aaoktsYgT7bSArfhWNtj1v3JL143R6Noz5xacS83b1wsftfcP
+octagontelos              EOS7tT6VTM66ZjZQGT48bWgLU1k5WEUtLR2a9saQCy7CHxbd4Xw9g       EOS7aaoktsYgT7bSArfhWNtj1v3JL143R6Noz5xacS83b1wsftfcP       UK (826)
 telosdacnode              EOS7umWfL6PF8tSMSj8qSCLjxEs9BAUvz4FrXRBpFL4kq6pW3vuN9       EOS8efshY1NNAerH8oMA7sheMrbaDFAi84bgz6F92k9cU2nBCAH81
 swedencornet              EOS5F71pqtgGV3dVVLFmyDKnXLkPGZHuMHEA8XT1P8YrrZfYaSwKQ       EOS887ZcvytonnEPsiJiwDQJ93tw5UmUTTsJFZrSZfbwSpFmYFPmN
 eosbarcelona              EOS7mfFwcgBWMVnM4ZpMP23C4J4soSFv18GUNCdWtve3mLGAsiTYt       EOS7Sj2XH4L7P7Zn5DhnA5pJcTv1CPjDoKvGfFA2znc3RVUYuxyDp
