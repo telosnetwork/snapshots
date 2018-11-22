@@ -46,3 +46,4 @@ telosglobal1              EOS8JQyD8DzRNVfsQ4LXD76vdrT1tmFTF2tgkuZdEtebrMSYJvPci 
 telossuperbp              EOS6sXa9QCdo67qfFNoAVPyGdTkRMkJy1buCGFF8gGXqGV1nqYWPn       EOS6sXa9QCdo67qfFNoAVPyGdTkRMkJy1buCGFF8gGXqGV1nqYWPn
 votedutcheos
 csxcommunity            EOS6dQynczPZfyhnaCFgTqNQ6ZA9BRWvDLeqCiL2YH1CWWhAo6fR6         EOS7SNjFNR2ajUt5edQngEupvbv5TJjmqxq3qk9eZQAkXP22JEtgx
+theteloscope              EOS8bhv4oWEnQ7u42fK8ScZxFtBCswZUAxxyqapnugu5xa4VTDo9E       EOS7DnXr93rVBapNc3mZyrsXLh1X34yp3G4Voae4gRngTcyxHVYTm
