@@ -23,7 +23,7 @@ telasiachina              EOS5Dpj5XmKpyQswNSyTZEgGuUFS2rVabagBAbGJCnKmC3ECinbCX 
 bpeosindexio
 tlosimperabp              EOS8N8Zio2nHf5gsy9dRmyv3goV6G2c9Kb3vQY8tuCbTohjr6sUVZ       EOS8N8Zio2nHf5gsy9dRmyv3goV6G2c9Kb3vQY8tuCbTohjr6sUVZ
 beyondbtctls              EOS5Tgc4WAFy1Kd8NzV7okT64cWK3iFFpgLxuAD27Xg1y84Pqqe3b       EOS5mBEuZ9d4KnuQhUnSgsXPYqcNgxG47U9mG5WVmQ9vKxBKdxEpS
-eosiodetroit
+eosiodetroit              EOS7yMMjccqebUtxom868jibB84v3Rpq5qP6odNdr3NccF1AaFGtJ       EOS79LUKmYuPTaG8tbgmzBr9vbJyksXfXv1xaFa7GHpY1FcfE6gDz
 southafricas
 eossandiego1
 telosarabia1
