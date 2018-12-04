@@ -1,5 +1,5 @@
 ethereum_address,account_name,PubKey,Balance
 ,tf,EOS6uXoeq1w5dKCatHXiyc5GG2tSq93wXY8obNoeCjNrKBxVNC9XJ,6000000.0000
-,tf.frp,,18000000.0000
-,tf.crp,,1000000.0000
-,tf.exrsrv,,140279973.0000
+,frp.tf,,18000000.0000
+,crp.tf,,1000000.0000
+,exrsrv.tf,,140279973.0000
